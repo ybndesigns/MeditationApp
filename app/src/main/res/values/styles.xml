@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="smallTitle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_small</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="bigIcon">
+        <item name="android:layout_width">@dimen/icon_sizing</item>
+        <item name="android:layout_height">@dimen/icon_sizing</item>
+    </style>
+
+    <style name="smallIcon">
+        <item name="android:layout_width">@dimen/icon_small</item>
+        <item name="android:layout_height">@dimen/icon_small</item>
+    </style>
+
+    <style name="categoryButtons">
+        <item name="android:layout_marginTop">@dimen/padding_small</item>
+        <item name="android:layout_width">@dimen/icon_sizing</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="categoryTitles">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="backgroundFrame">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">@dimen/padding_size</item>
+        <item name="android:background">@color/colorLightTransparent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meditation App</string>
+    <string name="daily">Daily Meditation</string>
+    <string name="topical">Topical Meditation</string>
+    <string name="select">Select Type of Meditation Session</string>
+    <string name="disclaimer">This app is not meant to replace treatment from a mental health professional. Also, this app is not actually real.\nIcons by FreePik via FlatIcon</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_size">16dp</dimen>
+    <dimen name="icon_sizing">90dp</dimen>
+    <dimen name="icon_small">32dp</dimen>
+    <dimen name="listTitleText">16sp</dimen>
+</resources>
